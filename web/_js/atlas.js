@@ -226,7 +226,9 @@ var atlas = [
 {"id":176,"name": "Interlingue", "description": "Flag of Interlingue, an IAL to communicate between Western European languages.", "website": "https://occidental-lang.com", "subreddit": "/r/interlingue", "center": [ 768.5, 328.5 ], "path": [ [ 765.5, 326.5 ], [ 770.5, 326.5 ], [ 770.5, 329.5 ], [ 765.5, 329.5 ] ] },
 {"id":177, "name": "Viossa", "description": "Flag of the conpidgin Viossa.", "website": "", "subreddit": "/r/viossa", "center": [ 775.5, 296.5 ], "path": [ [ 769.5, 290.5 ], [ 780.5, 290.5 ], [ 780.5, 301.5 ], [ 769.5, 301.5 ] ] },
 {"id":178, "name": "Lojban", "description": "Flag of Lojban", "website": "https://lojban.org", "subreddit": "/r/lojban", "center": [ 760.5, 328.5 ], "path": [ [ 763.5, 326.5 ], [ 757.5, 326.5 ], [ 757.5, 330.5 ], [ 763.5, 330.5 ] ] },
-
+{"id":179,"name": "CaptainSparklez Logo","description": "Creeper? Aw man. YouTuber most widely known from the animated  Minecraft Parody, \"Revenge\"","website": "","subreddit": "/r/CaptainSparklez/","center": [668.5,1809.5],"path": [[660.5,1801.5],[660.5,1816.5],[675.5,1816.5],[675.5,1801.5]]}
+{"id":180,"name": "Command and Conquer: Brother Hood of Nod","description": "One of the primary factions of the Command and Conquer Tiberium universe, pictured by it's black scorpion tail.","website": "","subreddit":"/r/commandandconquer/","center":[1193.5,1899.5],"path": [[1196.5,1891.5],[1190.5,1891.5],[1185.5,1898.5],[1185.5,1902.5],[1190.5,1906.5],[1197.5,1906.5],[1201.5,1901.5],[1201.5,1897.5]]}
+{"id":181, "name": "Chloe Louvre", "description": "Chloe is SrGrafo's mascot. /r/chloe (NSFW) is where SrGrafo practices drawing through a cast of anime girls while fans witness the background nonsense.", "website": "https://twitter.com/ChloeLouvre/", "subreddit": "/r/chloe/", "center": [ 1954.5, 254.5 ], "path": [ [ 1941.5, 240.5 ], [ 1941.5, 268.5 ], [ 1967.5, 268.5 ], [ 1967.5, 240.5 ] ] }
 ];
 
 //console.log("There are "+atlas.length+" entries in the Atlas.");
